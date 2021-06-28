@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Estou testando se o merge dará certo.
+=======
+olá meu nome é Flora.
+
+Sou aluna do SENAC Tech.
+
+Amo TDS.
+>>>>>>> equipe1
